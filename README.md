@@ -12,6 +12,10 @@
 
 Flutter ile geliştirilen iki taraflı strateji ve savaş oyunu.
 
+## Proje bağlamı
+
+Üniversite eğitimi sırasında geliştirilen bir strateji oyunu prototipidir. Oyun döngüsü, kaynak yönetimi, rakip davranışı ve Flutter ile durum yönetimi üzerine yapılan uygulamalı çalışmaları portföy kapsamında sunar.
+
 ## Özellikler
 
 - Birim üretimi, üsler ve kaynak yönetimi
